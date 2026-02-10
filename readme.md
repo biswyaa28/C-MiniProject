@@ -84,4 +84,4 @@ Question quiz[] = {
 
 ## 📝 Note
 
-This is an educational project created to practice C++ fundamentals. Feel free to modify and extend it for your learning purposes.
+This is an educational project created to practice C++ fundamentals. Feel free to modify and extend it for your learning purposes
